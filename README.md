@@ -1,4 +1,13 @@
+<!--  -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54742523/220513654-797098a2-d11a-4ea1-b27d-e49ccbfa5632.png" />
+</p>
+
 <h3 align="center">🤔 So... What can i do</h3>
+  
+<p align="center">
+  <img src="https://i.giphy.com/media/l1AsRItQQJJJqshR6/giphy.webp" />
+</p>
 
 <p align="center">
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/N e x t . j s-000000?style=for-the-badge&logo=Next.js&logoColor=FFF"/></a>
@@ -8,15 +17,26 @@
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T y p e s c r i p t-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF"/></a>
 </p>
 
+  
+<!--  -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54742523/220513654-797098a2-d11a-4ea1-b27d-e49ccbfa5632.png" />
+</p>
 
+<p align="center">
+<img widht="150%" src="https://i.giphy.com/media/d2ItDZZumUI6Y/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/d2ItDZZumUI6Y.gif';" alt="">
+</p>
 
 <h3 align="center">🤤 What I'm interested in recently...</h3>
-
 <p align="center">
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/B a b y l o n . j s-D16F53?style=for-the-badge&logo=Bookalope&logoColor=FFF"/></a>
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T h r e e . j s-000000?style=for-the-badge&logo=Three.js&logoColor=FFF"/></a>
 </p>
 
+<!--  -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54742523/220513654-797098a2-d11a-4ea1-b27d-e49ccbfa5632.png" />
+</p>
 
 <h3 align="center">🫣 Is this my report card?</h3>
 <p align="center">
