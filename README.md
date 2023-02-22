@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=EAC7C7&height=200&section=header&text=E%20L%20L%20E%20N&fontSize=90&fontColor=181823" />
+
 <!--  -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54742523/220513654-797098a2-d11a-4ea1-b27d-e49ccbfa5632.png" />
