@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=EAC7C7&height=200&section=header&text=E%20L%20L%20E%20N&fontSize=90&fontColor=181823" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=EAC7C7&height=200&section=header&text=E%20L%20L%20E%20N&fontSize=90&fontColor=181823&animation=twinkling" />
 
 <!--  -->
 <p align="center">
@@ -13,11 +13,11 @@
 <h3 align="center">🤔 So... What can i do</h3>
 
 <p align="center">
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/N e x t . j s-000000?style=for-the-badge&logo=Next.js&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/R e a c t-61DAFB?style=for-the-badge&logo=React&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/R e a c t-EAC7C7?style=for-the-badge&logo=React&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/N e x t . j s-A0C3D2?style=for-the-badge&logo=Next.js&logoColor=FFF"/></a>
     <br/>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/J a v a s c r i p t-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T y p e s c r i p t-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/J a v a s c r i p t-EAC7C7?style=for-the-badge&logo=JavaScript&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T y p e s c r i p t-A0C3D2?style=for-the-badge&logo=TypeScript&logoColor=FFF"/></a>
 </p>
 
   
@@ -32,8 +32,8 @@
 
 <h3 align="center">🤤 What I'm interested in recently...</h3>
 <p align="center">
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/B a b y l o n . j s-D16F53?style=for-the-badge&logo=Bookalope&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T h r e e . j s-000000?style=for-the-badge&logo=Three.js&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/B a b y l o n . j s-EAC7C7?style=for-the-badge&logo=Bookalope&logoColor=FFF"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T h r e e . j s-A0C3D2?style=for-the-badge&logo=Three.js&logoColor=FFF"/></a>
 </p>
 
 <!--  -->
@@ -75,3 +75,5 @@
   <a href="mailto:lee.ellen0814@gmail.com" target="_blank"><img src="https://img.shields.io/badge/C o n t a c t-A0C3D2?style=for-the-badge&logo=Minutemailer&logoColor=FFF"/></a>
 </p>
 
+<!--  -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=EAC7C7&height=200&section=footer" />
