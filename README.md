@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/R e a c t-EAC7C7?style=for-the-badge&logo=React&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/N e x t . j s-A0C3D2?style=for-the-badge&logo=Next.js&logoColor=FFF"/></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://img.shields.io/badge/N e x t . j s-A0C3D2?style=for-the-badge&logo=Next.js&logoColor=FFF"/></a>
     <br/>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/J a v a s c r i p t-EAC7C7?style=for-the-badge&logo=JavaScript&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T y p e s c r i p t-A0C3D2?style=for-the-badge&logo=TypeScript&logoColor=FFF"/></a>
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/J a v a s c r i p t-EAC7C7?style=for-the-badge&logo=JavaScript&logoColor=FFF"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/T y p e s c r i p t-A0C3D2?style=for-the-badge&logo=TypeScript&logoColor=FFF"/></a>
 </p>
 
   
@@ -40,8 +40,8 @@
 
 <h3 align="center">🤤 What I'm interested in recently...</h3>
 <p align="center">
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/B a b y l o n . j s-EAC7C7?style=for-the-badge&logo=Bookalope&logoColor=FFF"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/T h r e e . j s-A0C3D2?style=for-the-badge&logo=Three.js&logoColor=FFF"/></a>
+  <a href="https://www.babylonjs.com" target="_blank"><img src="https://img.shields.io/badge/B a b y l o n . j s-EAC7C7?style=for-the-badge&logo=Bookalope&logoColor=FFF"/></a>
+  <a href="https://threejs.org" target="_blank"><img src="https://img.shields.io/badge/T h r e e . j s-A0C3D2?style=for-the-badge&logo=Three.js&logoColor=FFF"/></a>
 </p>
 
 <!--  -->
